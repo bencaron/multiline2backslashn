@@ -1,4 +1,4 @@
-= Multi-line to back-slash-n
+# Multi-line to back-slash-n
 
 Tiny-mini-simple tool that takes a file and print it back with the new line replaced by \n.
 
